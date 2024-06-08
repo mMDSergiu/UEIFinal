@@ -1,0 +1,47 @@
+.first-box{
+    margin-top: 125px;
+    margin-bottom: 125px;
+    font-family: "Poppins", sans-serif;
+}
+
+.dreapta{
+    text-align: right;
+    padding-left: 20%;
+}
+
+.stanga{
+    padding-right: 20%;
+    text-align: left;
+}
+
+.first-box p{
+    margin: 25px 0;
+    font-family: "Poppins", sans-serif;
+}
+
+.first-box h2{
+    color: var(--tenth-color);
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.first-box h1{
+    margin-top: 30px;
+}
+
+.linieinfo{
+    width: 40%;
+    height: 3px;
+    background-color: #fff;
+    position: relative;
+    margin-left: 30%;
+    border-radius: 150px;
+}
+
+.link-simplu{
+    cursor: pointer;
+    font-weight: 500;
+    color: var(--sixth-color);
+}
